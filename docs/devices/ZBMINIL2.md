@@ -23,7 +23,11 @@ pageClass: device-page
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
-
+## Notes
+Device is put into pairing mode by eather one of the following ways:
+- automatically when powered of for the first time
+- when the button is pressed for 5 sec
+- or when the relay is switched on and off for 10 time.
 
 <!-- Notes END: Do not edit below this line -->
 
